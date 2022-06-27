@@ -29,4 +29,18 @@ to say it actually does something. Sorry, but i need to start somewhere.
     - [x] Set up the XML board files
     - [ ] Move over the vivado project to the board XML files
     - [ ] Testing & Validation
+
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+## Project Structure
+```
+Z7-LITE-Z7020-LINUX     [GIT REPO]
+│   LICENSE             [License file]
+│   README.md           
+│
+├───Board Files         [XML Board files]
+└───Vivado              [Vivado template project]
+```
+<p align="right">(<a href="#top">back to top</a>)</p>
+
